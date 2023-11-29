@@ -1,0 +1,20 @@
+# ninja log v5
+540	675	7229733308634984	proyecto3_reconstruccion_triangular.exe	492f208542f322
+3	539	7229733307361508	CMakeFiles/proyecto3_reconstruccion_triangular.dir/main.cpp.obj	6502d66ec867319
+4	345	7229738726221257	build.ninja	8a6470e50b78c76f
+11	2061	7229738747846575	CMakeFiles/proyecto3_reconstruccion_triangular.dir/Objeto.cpp.obj	43981e729a3d2fd4
+3	2378	7229738751015077	CMakeFiles/proyecto3_reconstruccion_triangular.dir/main.cpp.obj	6502d66ec867319
+18	3520	7229738762415473	CMakeFiles/proyecto3_reconstruccion_triangular.dir/glad.c.obj	d6fec8747246d60b
+3522	3812	7229738765312045	proyecto3_reconstruccion_triangular.exe	3f44c40d05455e53
+4	1241	7229739361084932	CMakeFiles/proyecto3_reconstruccion_triangular.dir/main.cpp.obj	6502d66ec867319
+1242	1511	7229739363720637	proyecto3_reconstruccion_triangular.exe	3f44c40d05455e53
+3	1208	7229740869164173	CMakeFiles/proyecto3_reconstruccion_triangular.dir/main.cpp.obj	6502d66ec867319
+1208	1488	7229740871902045	proyecto3_reconstruccion_triangular.exe	3f44c40d05455e53
+5	1295	7229741199447359	CMakeFiles/proyecto3_reconstruccion_triangular.dir/main.cpp.obj	6502d66ec867319
+1296	1563	7229741202067809	proyecto3_reconstruccion_triangular.exe	3f44c40d05455e53
+5	1282	7229756414791513	CMakeFiles/proyecto3_reconstruccion_triangular.dir/main.cpp.obj	6502d66ec867319
+1283	1558	7229756417496337	proyecto3_reconstruccion_triangular.exe	3f44c40d05455e53
+8	1390	7229758919369535	CMakeFiles/proyecto3_reconstruccion_triangular.dir/main.cpp.obj	6502d66ec867319
+1391	1670	7229758922102485	proyecto3_reconstruccion_triangular.exe	3f44c40d05455e53
+5	1325	7229759834471961	CMakeFiles/proyecto3_reconstruccion_triangular.dir/main.cpp.obj	6502d66ec867319
+1325	1603	7229759837192223	proyecto3_reconstruccion_triangular.exe	3f44c40d05455e53
